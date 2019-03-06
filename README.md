@@ -30,7 +30,7 @@ Stage 5 (May 9th): Package submission to canvas (Finals week)
 
 ### Package (40 points)
 
-Criteria  | Outstanding (< 90%) | Good (70-90%)     | Needs work (50-70%) | Needs a lot of work (< 50%) |
+Criteria  | Outstanding (> 90%) | Good (70-90%)     | Needs work (50-70%) | Needs a lot of work (< 50%) |
 --------- | ----------- | --------- | ---------- | ------------------- |
 Package Topic | Package is useful and coherent, addressing a well-defined problem. | Package is useful, but may have some implementation gaps or lack a coherent solution to the main problem the package addresses | Package is incoherent, including functions not aimed at addressing the stated issue | Package does not address a single problem or consists of seemingly random functions | 
 10 points |             |           |            |                     |
@@ -51,7 +51,7 @@ Exported functions | Only functions which are intended to be shown to the user a
 
 ## Shiny App (30 Points)
 
-Criteria  | Outstanding (< 90%) | Good (70-90%)     | Needs work (50-70%) | Needs a lot of work (< 50%) |
+Criteria  | Outstanding (> 90%) | Good (70-90%)     | Needs work (50-70%) | Needs a lot of work (< 50%) |
 --------- | ----------- | --------- | ---------- | ------------------- |
 Installation | Installation instructions are complete, shinyApp loads and runs without problems | minor things have to be taken care of before the app runs or installation instructions are missing crucial information | minor things have to be taken care of before the app runs and installation instructions are missing crucial information |  major steps need to be taken to ensure that the app runs, installation instructions are missing or not helpful |
 10 points |             |           |            |                     |
@@ -62,7 +62,7 @@ Complexity |  Multiple interactive UI elements are implemented  | | | The app is
 
 ## Vignette (30 Points)
 
-Criteria  | Outstanding (< 90%) | Good (70-90%)     | Needs work (50-70%) | Needs a lot of work (< 50%) |
+Criteria  | Outstanding (> 90%) | Good (70-90%)     | Needs work (50-70%) | Needs a lot of work (< 50%) |
 --------- | ----------- | --------- | ---------- | ------------------- |
 Uses `pkgdown` and github /docs | Report is formatted as a vignette using `pkgdown` and integrated into the github repository using the /docs folder. | Report can be generated reproducibly and is located in the /docs folder, but does not use `pkgdown` or is not connected to the package's github.io site | Report is not reproducible or not located in the correct location | Report consists of loosely connected pieces | 
 8 points |             |           |            |                     |
