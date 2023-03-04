@@ -1,4 +1,4 @@
-# Final projects Stat 585
+# Final projects Stat 585 - time travelling!
 
 For the final project you are asked to work in a team with 3-5 members. 
 Each team is asked to create an R package. You are free to choose package functionality, but there should be
